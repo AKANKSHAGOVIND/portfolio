@@ -11,7 +11,7 @@
 
 ## **About Me**
 
-I am a **Computer Science Engineering** graduate from **Sri Indu College of Engineering and Technology**, with a **GPA of 8.3/10**. I specialize in **Full Stack Development**, with hands-on experience in **.NET Core**, **React.js**, and **Microsoft Azure**. I am actively seeking opportunities in software development to contribute to exciting projects and grow professionally.
+I am a **Computer Science Engineering** graduate from **Sri Indu College of Engineering and Technology**. I specialize in **Full Stack Development**, with hands-on experience in **.NET Core**, **React.js**, and **Microsoft Azure**. I am actively seeking opportunities in software development to contribute to exciting projects and grow professionally.
 
 ---
 
