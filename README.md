@@ -51,18 +51,6 @@ I am a **Computer Science Engineering** graduate from **Sri Indu College of Engi
 
 ## **Professional Experience**
 
-### **Internship Experience**
-
-**Software Development Intern**  
-- **Company Name** | 📅 **Start Date - End Date**
-  - Worked on building and maintaining **Full Stack Web Applications**.
-  - Collaborated with senior developers on optimizing backend APIs built with **ASP.NET Core**.
-  - Assisted in developing **Azure-based** serverless functions to automate internal processes.
-
----
-
-## **Key Projects**
-
 ### 1. **Full Stack Web Application**  
 **Technologies Used**: React.js, ASP.NET Core, SQL Server  
 🔗 [GitHub Repository](https://github.com/yourusername/fullstack-app)  
