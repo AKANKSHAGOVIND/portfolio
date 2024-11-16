@@ -53,7 +53,6 @@ I am a **Computer Science Engineering** graduate from **Sri Indu College of Engi
 
 ### 1. **Full Stack Web Application**  
 **Technologies Used**: React.js, ASP.NET Core, SQL Server  
-🔗 [GitHub Repository](https://github.com/yourusername/fullstack-app)  
 - **Project Overview**: Developed a web application for users to manage personal tasks with user authentication and CRUD operations.  
 - **Responsibilities**: 
   - Developed a **React.js** frontend to create an interactive and responsive user interface.
