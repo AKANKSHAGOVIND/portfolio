@@ -1,6 +1,6 @@
 title: Govind Akanksha
 logo: /assets/img/headshot_circle.png  # Ensure the path to your logo is correct
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 show_downloads: true
 plugins:
-  - jekyll-remote-theme  # This is necessary for using remote themes, but only if you're using them.
+  - jekyll-remote-theme  # This is required for using remote themes
