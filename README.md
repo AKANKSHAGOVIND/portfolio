@@ -4,7 +4,7 @@
 - **Email**: akankshagovind5558@gmail.com  
 - **Phone**: 9949554948  
 - **LinkedIn**: www.linkedin.com/in/govindakanksha  
-- **GitHub**: [GitHub Profile](https://github.com/AKANKSHAGOVIND)  
+- **GitHub**: (https://github.com/AKANKSHAGOVIND)  
 
 
 ---
